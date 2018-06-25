@@ -16,3 +16,9 @@ Criar projeto:
 
 Subir Projeto:
 `ng serve`
+
+Criar Módulo:
+`ng g m nome-modulo`
+
+Criar Componente:
+`ng g c nome-componente`

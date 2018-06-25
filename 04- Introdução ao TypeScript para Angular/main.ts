@@ -24,5 +24,5 @@ class Matematica {
     }
 }
 
-var n1: string = 'asadad';
+var n1: any = 'asadad';
 n1 = 4;

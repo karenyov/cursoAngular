@@ -11,6 +11,9 @@ Este repositório contém anotações e códigos produzidos no curso de [Angular
 ### Anotações
 > Os comandos são realizados via terminal (Angular CLI).
 
+Instalar Angular CLI:
+`npm install -g angular-cli`
+
 Criar projeto:
 `ng new primeiro-projeto`
 

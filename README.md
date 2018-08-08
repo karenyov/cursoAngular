@@ -25,3 +25,6 @@ Criar Módulo:
 
 Criar Componente:
 `ng g c nome-componente`
+
+Criar Serviço:
+`ng g s nome-service`

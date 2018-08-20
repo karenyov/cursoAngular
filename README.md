@@ -28,3 +28,26 @@ Criar Componente:
 
 Criar Serviço:
 `ng g s nome-service`
+
+Criar Diretiva:
+`ng g d nome-directive`
+
+Criar Pipe:
+`ng g p nome-pipe`
+
+Criar Class:
+`ng g c nome-classe`
+
+Criar Interface:
+`ng g i nome-interface`
+
+Criar Enum:
+`ng g e nome-enum`
+
+Verificar boas práticas de código:
+`ng lint`
+
+Executar os testes:
+`ng test`
+
+`ng e2

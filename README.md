@@ -50,4 +50,4 @@ Verificar boas práticas de código:
 Executar os testes:
 `ng test`
 
-`ng e2
+`ng e2`

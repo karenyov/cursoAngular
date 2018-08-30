@@ -8,6 +8,7 @@ import { NgSwitchComponent } from './ng-switch/ng-switch.component';
 import { NgForComponent } from './ng-for/ng-for.component';
 import { NgClassComponent } from './ng-class/ng-class.component';
 import { NgStyleComponent } from './ng-style/ng-style.component';
+import { OperadorElvisComponent } from './operador-elvis/operador-elvis.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { NgStyleComponent } from './ng-style/ng-style.component';
     NgSwitchComponent,
     NgForComponent,
     NgClassComponent,
-    NgStyleComponent
+    NgStyleComponent,
+    OperadorElvisComponent
   ],
   imports: [
     BrowserModule,

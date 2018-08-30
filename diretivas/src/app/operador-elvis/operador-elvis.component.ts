@@ -9,8 +9,9 @@ export class OperadorElvisComponent implements OnInit {
 
   tarefa: any = {
     desc: 'Descição da tarefa',
-    responsavel: null
-    //responsavel: { nome: 'Loiane'}
+    responsavel: {
+      usuario: null
+    }
   }
 
   constructor() { }

@@ -9,6 +9,12 @@ import { NgForComponent } from './ng-for/ng-for.component';
 import { NgClassComponent } from './ng-class/ng-class.component';
 import { NgStyleComponent } from './ng-style/ng-style.component';
 import { OperadorElvisComponent } from './operador-elvis/operador-elvis.component';
+import { NgContentComponent } from './ng-content/ng-content.component';
+import { FundoAmareloDirective } from './shared/fundo-amarelo.directive';
+import { DiretivasCustomizadasComponent } from './diretivas-customizadas/diretivas-customizadas.component';
+import { HighlightMouseDirective } from './shared/highlight-mouse.directive';
+import { HighlightDirective } from './shared/highlight.directive';
+import { NgElseDirective } from './shared/ng-else.directive';
 
 
 @NgModule({
@@ -19,7 +25,13 @@ import { OperadorElvisComponent } from './operador-elvis/operador-elvis.componen
     NgForComponent,
     NgClassComponent,
     NgStyleComponent,
-    OperadorElvisComponent
+    OperadorElvisComponent,
+    NgContentComponent,
+    FundoAmareloDirective,
+    DiretivasCustomizadasComponent,
+    HighlightMouseDirective,
+    HighlightDirective,
+    NgElseDirective
   ],
   imports: [
     BrowserModule,
